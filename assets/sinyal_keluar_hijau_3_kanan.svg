@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="130"
+   height="580"
+   viewBox="0 0 34.395833 153.45833"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="sinyal_keluar_hijau_3_kanan.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="86.106538"
+     inkscape:cy="397.51536"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="685"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-143.54162)">
+    <path
+       style="fill:#000000;stroke-width:0.92585886"
+       d="M 54.498047 69.472656 L 54.498047 133.70117 L 4.4589844 183.74023 L 54.898438 234.18164 L 54.898438 252.26172 A 76.223577 74.820692 0 0 0 1.2460938 286.89062 L 1.0097656 286.89062 L 1.0097656 287.26953 L 1.0097656 365.125 L 1.0097656 476.96484 L 1.0097656 495.14648 L 54.898438 495.14648 L 54.898438 580 L 77.121094 580 L 77.121094 495.14648 L 131.00977 495.14648 L 131.00977 476.96484 L 131.00977 365.07031 L 131.00977 287.2168 L 131.00977 286.89062 L 130.81836 286.89062 A 76.223577 74.820692 0 0 0 77.121094 252.23828 L 77.121094 234.18164 L 127.56055 183.74023 L 77.523438 133.70312 L 77.523438 69.472656 L 54.498047 69.472656 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,143.54162)"
+       id="path12" />
+    <circle
+       style="fill:#00ff00;stroke-width:0.21030171"
+       id="path3726"
+       cx="17.197916"
+       cy="229.58867"
+       r="11.259151" />
+    <circle
+       style="fill:#4d4d4d;stroke-width:0.21030171"
+       id="circle3739"
+       cx="17.197916"
+       cy="255.69504"
+       r="11.259151" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:3.35629082;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5164"
+       width="6.0921345"
+       height="21.27062"
+       x="124.69276"
+       y="83.030212"
+       transform="rotate(45)" />
+    <rect
+       transform="rotate(-45)"
+       y="107.64339"
+       x="-106.17171"
+       height="21.27062"
+       width="6.0921345"
+       id="rect5166"
+       style="fill:#000000;stroke:none;stroke-width:3.35629082;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.50175476px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.43754381"
+       x="12.298769"
+       y="197.77377"
+       id="text5170"><tspan
+         sodipodi:role="line"
+         id="tspan5168"
+         x="12.298769"
+         y="197.77377"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.43754381">3</tspan></text>
+    <rect
+       transform="rotate(45)"
+       y="84.750359"
+       x="125.61845"
+       height="14.806529"
+       width="4.2407494"
+       id="rect5172"
+       style="fill:#ffffff;stroke:none;stroke-width:2.33632207;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
